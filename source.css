@@ -1,4 +1,4 @@
-@import url("https://github.com/nethercodex/litium-theme/blob/main/satoshi.css");
+@import url("https://raw.githubusercontent.com/nethercodex/litium-theme/refs/heads/main/satoshi.css");
 :root {
   --app-font: "Satoshi";
   --app-background: hsl(0,0%,0%);
